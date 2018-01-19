@@ -69,7 +69,7 @@
         <dependency>
             <groupId>de.eonas.portal</groupId>
             <artifactId>opencmsportaldriver</artifactId>
-            <version>10.5.1.2</version>
+            <version>10.5.1.3</version>
             <exclusions>
                 <exclusion>
                     <artifactId>activation</artifactId>
